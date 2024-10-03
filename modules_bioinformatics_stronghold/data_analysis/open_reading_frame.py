@@ -3,7 +3,7 @@ from modules_bioinformatics_stronghold.data_analysis.translating_mRNA_into_prote
 from modules_bioinformatics_stronghold.data_analysis.complementing_DNA import *
 
 
-def find_start(seq):
+def find_start(seq: str) -> list:
     list_start = []
     for i in range(0, len(seq)):
         if seq[i: i+3] == "AUG":
@@ -11,7 +11,7 @@ def find_start(seq):
     return list_start
 
 
-def find_stop(seq):
+def find_stop(seq: str) -> str:
     result = ""
     for i in range(0, len(seq), 3):
         if seq[i: i + 3] == "UAA" or seq[i: i + 3] == "UAG" or seq[i: i + 3] == "UGA":
@@ -20,7 +20,7 @@ def find_stop(seq):
     return result
 
 
-def solution_ORF(seq):
+def solution_ORF(seq: str) -> str:
     """
    find the open reading frame given a DNA string 
     """

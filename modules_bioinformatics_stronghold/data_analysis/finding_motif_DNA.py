@@ -1,4 +1,4 @@
-def find_motif_index(seq, motif):
+def find_motif_index(seq: str, motif: str) -> str:
     index_found = []
     for i in range(0, len(seq)):
         if seq[i: i + len(motif)] == motif:

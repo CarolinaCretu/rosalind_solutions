@@ -1,4 +1,4 @@
-def nucleotides_count(seq):
+def nucleotides_count(seq: str) -> dict:
     nuc = {"A": 0, "C": 0, "G": 0, "T": 0}
     for i in seq:
         nuc[i] += 1

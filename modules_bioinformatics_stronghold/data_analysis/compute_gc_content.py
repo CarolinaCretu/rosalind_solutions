@@ -1,4 +1,4 @@
-def gc_count(seq):
+def gc_count(seq: str) -> float:
     count = 0
     for i in seq:
         if i == "G" or i == "C":

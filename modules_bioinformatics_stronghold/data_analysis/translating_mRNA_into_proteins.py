@@ -26,8 +26,9 @@ codontab = {
 }
 
 
-def translation(seq):
+def translation(seq: str) -> str:
     aa_chain = ""
     for i in range(0, len(seq), 3):
         aa_chain += codontab[seq[i: i + 3]]
+    aa_chain = aa_chain.replace("*","")
     return aa_chain
