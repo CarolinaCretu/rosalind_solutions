@@ -2,7 +2,7 @@ These are my solutions for the exercises available on the Rosalind website.
 
 You can find a list of all the exercises I have finished so far and they can be found in files with the same name:
 
-- Bioinformatics Stronghold (to be completed):
+- Bioinformatics Stronghold:
 
 1. Counting DNA nucleotides
 2. Transcribing DNA into RNA
@@ -12,3 +12,4 @@ You can find a list of all the exercises I have finished so far and they can be 
 6. Translating RNA into Protein
 7. Finding a Motif in DNA
 8. Open Reading Frames
+9. RNA splicing
