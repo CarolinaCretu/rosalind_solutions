@@ -4,7 +4,7 @@ You can find a list of all the exercises I have finished so far and they can be 
 
 - Bioinformatics Stronghold:
 
-1. Counting DNA nucleotides [code]([url](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/complementing_DNA.py))
+1. Counting DNA nucleotides [code](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/complementing_DNA.py)
 2. Transcribing DNA into RNA
 3. Complementing a Strand of DNA
 4. Computing GC Content
