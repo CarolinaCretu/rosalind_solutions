@@ -1,4 +1,4 @@
-def readFileSimple(file_path):
+def readFileSimple(file_path) -> str:
     """
     Read a simple txt file
     """

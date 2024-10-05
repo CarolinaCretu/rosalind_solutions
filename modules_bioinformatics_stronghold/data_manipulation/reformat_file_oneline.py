@@ -1,4 +1,4 @@
-def readFileReformat(file_path):
+def readFileReformat(file_path) -> list:
     """
     Reads the file and returns a list of lines
     """

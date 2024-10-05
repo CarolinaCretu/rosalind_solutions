@@ -1,4 +1,4 @@
-def readFastaFile(fasta_path):
+def readFastaFile(fasta_path) -> dict:
     """
         Reads Fasta file
         """
