@@ -1,6 +1,6 @@
 These are my solutions for the exercises available on the Rosalind website.
 
-You can find below a list of all the exercises I have finished so far:
+You can find below a list of all the exercises I have finished so far.
 
 - Bioinformatics Stronghold:
 
@@ -12,4 +12,5 @@ You can find below a list of all the exercises I have finished so far:
 6. Translating RNA into Protein [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/translating_mRNA_into_proteins.py)
 7. Finding a Motif in DNA [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/finding_motif_DNA.py)
 8. Open Reading Frames [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/open_reading_frame.py)
-9. RNA splicing [[code]]
+9. RNA splicing [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/RNA_splicing.py)
+10. Calculating Protein Mass [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/calculating_protein_mass.py)
