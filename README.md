@@ -14,3 +14,4 @@ You can find below a list of all the exercises I have finished so far.
 8. Open Reading Frames [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/open_reading_frame.py)
 9. RNA splicing [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/RNA_splicing.py)
 10. Calculating Protein Mass [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/calculating_protein_mass.py)
+11. Inferring mRNA from Protein [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/inferring_mRNA_from_protein.py)
