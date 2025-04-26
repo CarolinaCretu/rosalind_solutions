@@ -1,10 +1,4 @@
 def nucleotides_count(seq: str) -> dict:
-    nuc = {"A": 0, "C": 0, "G": 0, "T": 0}
-    for i in seq:
-        nuc[i] += 1
-    return nuc
+    
+    return seq.count("A"),seq.count("C"),seq.count("G"),seq.count("T")
 
-# seq_rosalind = read_file_seq("C:\\Users\\Carolina\\Downloads\\rosalind_dna (1).txt")
-# dict_result_seq = nucleotides_count(seq_rosalind)
-#
-# print(" ".join([str(values) for keys, values in dict_result_seq.items()]))

@@ -1,8 +1,8 @@
-from modules_bioinformatics_stronghold.data_manipulation.simple_file import *
-from modules_bioinformatics_stronghold.data_analysis.enumerating_gene_orders import *
+from modules_bioinformatics_stronghold.data_manipulation.fasta_files import *
+from modules_bioinformatics_stronghold.data_analysis.consensus_and_profile import *
 
 if __name__ == "__main__":
 
     given_path = input("path: ")
-    info_given = readFileSimple(given_path)
-    print(enumerating_gene_orders(info_given))
+    info_given = readFastaFile(given_path)
+    print(consensus(info_given))

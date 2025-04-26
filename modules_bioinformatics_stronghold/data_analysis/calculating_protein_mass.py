@@ -31,3 +31,4 @@ def calculating_protein_mass(seq: str) -> float:
     return round(weight, 3)
 
 
+print(calculating_protein_mass("AAGGTTTGGTT"))
