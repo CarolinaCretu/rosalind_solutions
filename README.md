@@ -1,4 +1,4 @@
-These are my solutions for the exercises available on the Rosalind website.
+These are my solutions for the bioinformatics exercises available on the [Rosalind website](https://rosalind.info/about/).
 
 You can find below a list of all the exercises I have finished so far.
 
@@ -16,3 +16,4 @@ You can find below a list of all the exercises I have finished so far.
 10. Calculating Protein Mass [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/calculating_protein_mass.py)
 11. Inferring mRNA from Protein [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/inferring_mRNA_from_protein.py)
 12. Enumerating Gene Orders [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/enumerating_gene_orders.py)
+13. Consensus and Profilw [[code]](https://github.com/CarolinaCretu/rosalind_solutions/blob/main/modules_bioinformatics_stronghold/data_analysis/consensus_and_profile.py)
